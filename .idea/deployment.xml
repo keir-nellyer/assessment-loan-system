@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="ygritte" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ygritte">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/classes/object_orientated/assessment/java/application" local="$PROJECT_DIR$/out/artifacts/glencaldy" web="/" />
+            <mapping deploy="/classes/object_orientated/assessment/java/source" local="$PROJECT_DIR$/src" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/classes/object_orientated/assessment/java/application/run.sh" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
